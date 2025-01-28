@@ -1,7 +1,7 @@
 # parameters
 ARG REPO_NAME="<DuckieBot-Explorer>"
-ARG DESCRIPTION="<DESCRIPTION_HERE>"
-ARG MAINTAINER="<YOUR_FULL_NAME> (<YOUR_EMAIL_ADDRESS>)"
+ARG DESCRIPTION="<A website dedicated as a course website for CMPUT 412 at University of Alberta.>"
+ARG MAINTAINER="<Fumanpreet Singh> (<fumanpre@ualberta.ca>)"
 # pick an icon from: https://fontawesome.com/v4.7.0/icons/
 ARG ICON="cube"
 
