@@ -56,3 +56,5 @@ html_theme_options:
   includehidden: False
   titles_only: False
 
+# Custom settings
+footer_show: false
