@@ -1,8 +1,8 @@
 # DuckieBot-Explorer
 
-**DuckieBot-Explorer** is an educational platform designed to explore the world of mobile robotics through hands-on, project-based learning. The inspiration for this website comes from the **CMPUT 412** course at the **University of Alberta**, a course that introduces students to the design and implementation of mobile robots to accomplish specific tasks.
+**DuckieBot-Explorer** is explore the world of mobile robotics through hands-on, project-based learning. The inspiration for this website comes from the **CMPUT 412** course at the **University of Alberta**, a course that introduces students to the design and implementation of mobile robots to accomplish specific tasks.
 
-In this course, students are introduced to key concepts in robotics, including sensor technologies, data processing, motion control based on feedback, and real-time programming. The DuckieBot-Explorer project aims to provide an interactive and engaging experience for anyone interested in mobile robotics, offering insight into how robots like Duckiebot work and how they can be programmed to accomplish a variety of tasks.
+In this course, students are introduced to key concepts in robotics, including sensor technologies, data processing, motion control based on feedback, and real-time programming. The project aims to provide an interactive and engaging experience for anyone interested in mobile robotics, offering insight into how robots like Duckiebot work and how they can be programmed to accomplish a variety of tasks.
 
 ## Exercise 1 - Duckiebot Assembly and Basic Development
 
